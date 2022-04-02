@@ -1,0 +1,1 @@
+# discord-acc-generator-bot
